@@ -12,6 +12,6 @@
 
 |  |  |
 |--|--|
-| NIM | **nim** |
-| Nama Lengkap | **nama** |
+| NIM | 21104410029 |
+| Nama Lengkap | Dimas Adi Pratama |
 | Kelas | TI-4A |
